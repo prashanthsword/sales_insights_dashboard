@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter and IPython
+.ipynb_checkpoints
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.tmp
+*.temp
+
+# Model and data artifacts (optional – remove if needed)
+*.pkl
+*.csv
+*.xlsx
+*.json
+
+# Streamlit specific
+.streamlit/
